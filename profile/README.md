@@ -1,4 +1,8 @@
-# :raising_hand: What is ZKDL?
+<p align="center">
+<img width="80%" src="https://github.com/user-attachments/assets/9255ba94-16a7-48e9-8ee8-897edeb7b936">
+</p>
+
+# :raising_hand: What is ZKDL Camp?
 This is a series of lectures (in the future, possibly seminars) on zero-knowledge, in which we will understand "from scratch" how SNARKs (_Groth16_, _PLONK_), _STARK_, _Bulletproofs_ (in the future, perhaps also Folding schemes) work.
 
 It is important that this course is designed for a full low-level understanding of these protocols and, accordingly, all the mathematics on which they are based. That is why the course covers not only zk itself and its application directly but also the basic level of mathematics needed to understand zk and cryptography in general.
