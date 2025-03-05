@@ -3,7 +3,7 @@
 </p>
 
 # :raising_hand: What is ZKDL Camp?
-This is a series of lectures (in the future, possibly seminars) on zero-knowledge, in which we will understand "from scratch" how _zk-SNARK_s such as _Groth16_ or _Pinocchio_ and _zk-STARK_ work, including all the components they rely on.
+This is a series of lectures (in the future, possibly seminars) on zero-knowledge, in which we will understand "from scratch" how _zk-SNARKs_ such as _Groth16_ or _Pinocchio_ and _zk-STARK_ work, including all the components they rely on.
 
 Note that this course is designed for a full low-level understanding of these protocols and, accordingly, all the mathematics on which they are based. That is why the course covers not only zk itself and its application directly but also the basic mathematics level needed to understand zk and cryptography in general.
 
